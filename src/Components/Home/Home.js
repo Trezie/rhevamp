@@ -58,7 +58,40 @@ function Home() {
             </div>
             
         </section>
-        <section className='thirddColumn'>
+        <section className='thirdColumn'>
+            <h2>
+            We are building software solution <br></br> that solves your business <br></br> challenges
+            </h2>
+            <div className='boxes'>
+                <div className='box'>
+                    <img src='/img/icon_1.png' />
+                    <p>
+                        Invoicing
+                    </p>
+                    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </span>
+
+
+                </div>
+                <div className='box'>
+                    <img src='/img/icon (2).png' />
+                    <p>
+                        Support
+                    </p>
+                    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </span>
+
+
+                </div>
+                <div className='box'>
+                    <img src='/img/icon (3).png' />
+                    <p>
+                        Surveying
+                    </p>
+                    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet eros blandit, hendrerit elit et, </span>
+
+
+                </div>
+
+            </div>
 
         </section>
         <div className='rightSecondSection'>
@@ -73,7 +106,7 @@ function Home() {
                     <div className='button'>
                         <span>Find Out More</span>
                     </div>
-                </div>
+        </div>
 
 
         <div className='Column'>
