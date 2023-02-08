@@ -207,7 +207,7 @@ function Home() {
             <img src='./img/Avatars.png'  style={{marginTop: '20px'}}/>
 
         </div>      
-    </div>
+    </div>  
   )
 }
 
