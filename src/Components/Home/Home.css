@@ -263,7 +263,15 @@
     /* or 175% */
     color: #5B5B5B;
     text-align: left;
-
+}
+.large{
+    display: flex;
+    justify-content: center;
+}
+.largeBox{
+    width: 75%;
+    background: #E5E5E5;
+    align-items: center;
 }
 .Column{
     margin-top: 120px 0;
