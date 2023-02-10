@@ -99,6 +99,7 @@ function Home() {
                 <div className='firstRec'>
                     <img src="" />
                     <div>
+                        <h2>Business Strategy</h2>
 
                     </div>
 
