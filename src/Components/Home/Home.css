@@ -269,10 +269,48 @@
     justify-content: center;
 }
 .largeBox{
-    width: 75%;
+    width: 70%;
     background: #E5E5E5;
     align-items: center;
 }
+.firstRec{
+    display: flex;
+    justify-content: space-around;
+}
+.firstRec > img{
+    width: 40%;
+    height: 30%;
+
+}
+.business{
+    text-align: left;
+    width: 40%;
+}
+.business h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 56px;
+    /* identical to box height, or 117% */
+
+    letter-spacing: -0.03em;
+
+    color: #0D1317;
+
+}
+.business > span{
+    text-align: left;
+    align-items: left;
+    font-size: 14px;
+
+}
+.business > ul > li{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+
 .Column{
     margin-top: 120px 0;
 }

@@ -97,10 +97,15 @@ function Home() {
         <section className='large'>
             <div className='largeBox'>
                 <div className='firstRec'>
-                    <img src="" />
-                    <div>
+                    <img src="/img/Image (1).png" />
+                    <div className='business'>
                         <h2>Business Strategy</h2>
-
+                        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo odio, sagittis quis ornare quis.met, consectetur adipiscing elit. Aliquam leo odio, sagittis quis ornare quis.</span>
+                        <ul>
+                            <li>Cost strategy</li>
+                            <li>Differentiated product or service strategy</li>
+                            <li>Focus on a niche strategy</li>
+                        </ul>
                     </div>
 
                 </div>
