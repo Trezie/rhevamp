@@ -96,7 +96,7 @@ function Home() {
         </section>
         <section className='large'>
             <div className='largeBox'>
-                <div className='firstRec'> 
+                <div className='firstRec'>
                     <img src="/img/Image (1).png" /> 
                     <div className='business'> 
                         <h2>Business Strategy</h2>
@@ -110,9 +110,9 @@ function Home() {
 
                 </div>
 
-            </div> 
+            </div>
             
-        </section>
+        </section> 
         <div className='rightSecondSection'>
                     <h1>About Femcode Africa</h1>
                     <span className='' style={{marginTop: '10px'}}>FemCode Africa is a virtual tech education company focused on <br/> training young females in Africa and helping them get employed. </span>
